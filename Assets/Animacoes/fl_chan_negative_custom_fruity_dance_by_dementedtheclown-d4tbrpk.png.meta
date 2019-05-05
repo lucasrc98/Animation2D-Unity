@@ -1,0 +1,1779 @@
+fileFormatVersion: 2
+guid: d72303285bac9d346b4f169f6c91031a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_0
+    21300002: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_1
+    21300004: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_2
+    21300006: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_3
+    21300008: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_4
+    21300010: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_5
+    21300012: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_6
+    21300014: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_7
+    21300016: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_8
+    21300018: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_9
+    21300020: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_10
+    21300022: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_11
+    21300024: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_12
+    21300026: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_13
+    21300028: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_14
+    21300030: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_15
+    21300032: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_16
+    21300034: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_17
+    21300036: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_18
+    21300038: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_19
+    21300040: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_20
+    21300042: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_21
+    21300044: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_22
+    21300046: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_23
+    21300048: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_24
+    21300050: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_25
+    21300052: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_26
+    21300054: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_27
+    21300056: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_28
+    21300058: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_29
+    21300060: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_30
+    21300062: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_31
+    21300064: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_32
+    21300066: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_33
+    21300068: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_34
+    21300070: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_35
+    21300072: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_36
+    21300074: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_37
+    21300076: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_38
+    21300078: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_39
+    21300080: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_40
+    21300082: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_41
+    21300084: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_42
+    21300086: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_43
+    21300088: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_44
+    21300090: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_45
+    21300092: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_46
+    21300094: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_47
+    21300096: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_48
+    21300098: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_49
+    21300100: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_50
+    21300102: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_51
+    21300104: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_52
+    21300106: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_53
+    21300108: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_54
+    21300110: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_55
+    21300112: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_56
+    21300114: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_57
+    21300116: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_58
+    21300118: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_59
+    21300120: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_60
+    21300122: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_61
+    21300124: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_62
+    21300126: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_63
+    21300128: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_64
+    21300130: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_65
+    21300132: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_66
+    21300134: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_67
+    21300136: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_68
+    21300138: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_69
+    21300140: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_70
+    21300142: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_71
+    21300144: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_72
+    21300146: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_73
+    21300148: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_74
+    21300150: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_75
+    21300152: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_76
+    21300154: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_77
+    21300156: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_78
+    21300158: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_79
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa839aa7c814e0419fecb8456ea384c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec30214da592f01429abfd3b46c1e2c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3cf597f5c4cd6409663c0eae7db1b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912e8d8fbd16da24ab2286d2d6e3e401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80447f767bce12f45867a336f5b93c9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb34cf97b9feee846a04296d40d6f622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdafd08a1534c914e964f24a4c258c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_7
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd83d1df846cfd48a467abb3526a8bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afad4fbb2b4c1f146ae6ae3e2f5405f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5fe27ebfe5a2747b70a52aa2f8575a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec6da8ed4044734a9ed2f8f987fe498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5fa959b0544814285bd061a3c18665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c4c995c0f501345ab3cfac12949c36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_13
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a4ef45fa4155b46a4d0306e7d230b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_14
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60258f123046e30408c522095ac585f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_15
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ebe527411bf8e40aef19519a2883bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099c5601ec1cd9544a6c108ee00be2a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea4a5b5c8c86034d8a9a1a53007c8a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01072fd73831ac479a6fc9c47d4356b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf1035cddf9a8c439e455f48cf5adec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8d97d42f236964d960e9eb4dbed90d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_21
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344d3c1329ba1864c863b935ccf03399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_22
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa981aa1defe8746855fcad325cbdc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_23
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d23513951d42b409a101c6c9e00b97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820901f00f7ae964db011afed4109783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336babdcb7b7a849bf362af0030cce4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f3a3b4860846c48b515d5e1c5a5214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_27
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd07749c52d1f54190249033dcfa6c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a268f5471b44b49bffd3bb07d8c138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_29
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d3e28c0ab025847984ce1585e9f601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_30
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7ae669083355c4a93dad4c7f55941f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_31
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68efdfac264d7514fb7ce5f64db6c61f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5ec1a1a6cf7a047a1ad24a3716a02f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3bbb239cb126949b0d38ebffc03428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c67df535359f34f90a8de6701fd385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae1cce890a0f844db6f67bf56a1da6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_36
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb1558f42c6c0843881c6e9f34ef7ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db64e72dcd24c142880600c03fd681c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_38
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6b5f5132df11547a70d17a780da0fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_39
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1cc6bd5903dfe40a0c87eae471c57a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98977d15d4c166843a83bcde69b3872b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd852b36e49de441b2deb10c209370b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_42
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b1b35b0ca970a4ab96680915e37633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_43
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c82f19c756d8dc47b05cbc98bed8242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a00f0cd2af0ff4389aca5496c4493b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_45
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f449645a43a3444682d403bfabe16a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_46
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74481a63303d3640b321736f5195cb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_47
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d5793836a1b6a4e87c0e495b868d55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa708369f6c656489eeb9a220d76fce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8fcde037daf0e469985902eb66b99a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_50
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc1ec1d7517a094e8b0e6c2c341e185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dc5c40f466d9c4e8fc3338dc4680a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_52
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7582d2ecbf38a084896f6528e2df0d8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_53
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462d7206607fce74f8a58aecfe83cb12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_54
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9a5824c1f787b4b9ed5deba688b86e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_55
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36ef5ba752e48c4d847e2eb1b4f1a5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8346c252e773cb545abffc5ba681b216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_57
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1a61be2cf1ace4e91fe494b1830dac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_58
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db2cca426f0874cbd2f7072b99489d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_59
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7142faf6f5947584e803eef714b6d51c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_60
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b142a8213cfd4114d8f94ae50d138b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_61
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d7a3a8af07b3f4cb2821627e585837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_62
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c4f1015b130b949b3abf17b6d0cfb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_63
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab7817bd16636c49960aaf8325aafe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501b748d179cd994982d4fff2fe47e5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_65
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cf189620f1cf14f9ace6565855c90c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_66
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c32b90b2543bd4fb0b67d203923ba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_67
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df09fe463443ece44be8038dcc2a4fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_68
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbe399f065c244489770acc7d4020ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_69
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3d1f8a030db4247b805d67bb7bcbb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_70
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e730594178c8d444acbaddf3ae2727e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_71
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f2e359f20c8844a9223f0a81a89583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7ed11112616bf49943f73dd5be449b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_73
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684c7daca06290d4eb139a631b3562dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_74
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00befd1dd0bbf94cba7c18a882f9990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_75
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df2efdefd5b9294da526dae2eb576ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_76
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657091008e3e85142bbf78be2f089f16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_77
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77566aae984ddfa40911b36ac1135259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_78
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b390680ad20b7ee4d857b87a4a27d349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fl_chan_negative_custom_fruity_dance_by_dementedtheclown-d4tbrpk_79
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee6127d460b79a4eac82bc9657bd738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7ee16005ae1ce654f9a20ac743187e7c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
