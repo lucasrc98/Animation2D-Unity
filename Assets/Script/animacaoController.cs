@@ -25,5 +25,27 @@ public class animacaoController: MonoBehaviour
             animator.SetBool("dancando", false);
 
         }
+
+        if(Input.GetKeyDown (KeyCode.Space)){
+            // dancando verdadeiro
+            animator.SetBool("pulando", true);
+        }
+
+        if(Input.GetKeyUp (KeyCode.Space)){
+            // dancando false
+            animator.SetBool("pulando", false);
+
+        }
+
+        if(Input.GetKeyDown (KeyCode.B)){
+            // dancando verdadeiro
+            animator.SetBool("breaking", true);
+        }
+
+        if(Input.GetKeyUp (KeyCode.B)){
+            // dancando false
+            animator.SetBool("breaking", false);
+
+        }
     }
 }
